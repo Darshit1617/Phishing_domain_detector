@@ -1,0 +1,11 @@
+xgboost
+scikit-learn
+pandas
+numpy
+matplotlib
+seaborn
+tldextract
+urllib3
+whois
+python-whois
+requests
